@@ -1,2 +1,2 @@
 # GREEN-OBJECT-FOLLOWER-DJI-TELLO
-Making a simple PID controller algorithm on the DJI Tello for drones so they can follow green objects
+The Green Object Follower project utilizes the DJI Tello drone with the implementation of OpenCV to detect and track green-colored objects. Through the use of OpenCV, the drone can identify and lock onto green objects in real-time.
